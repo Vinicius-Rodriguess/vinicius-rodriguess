@@ -2,13 +2,25 @@
 
 ###
 
-<p align="left">🎓 Desenvolvedor Fullstack JavaScript | 📚 Cursando Análise e desenvolvimento de sistemas<br><br>💬 Sobre Mim:<br><br>Possuo experiência no desenvolvimento de soluções Front-End com JavaScript, adquirida durante meu estágio, onde também atuei no suporte técnico. Tenho vivência prática com Angular, React, Node.js e consumo de APIs, aplicando boas práticas para construir aplicações performáticas e escaláveis.<br><br>Atualmente, estou aprofundando meus conhecimentos em Back-End para me tornar um desenvolvedor Fullstack mais completo. Com organização, flexibilidade e espírito colaborativo, estou sempre em busca de transformar desafios em soluções eficientes.<br><br>📫 Como Entrar em Contato<br>📧 Email: rodrigues.vini.2004@gmail.com<br>🔗 LinkedIn: [Vinicius Rodrigues](https://www.linkedin.com/in/vinicius-rodrigues2004/)</p>
+<p align="left">
+  🎓 Desenvolvedor Fullstack JavaScript | 📚 Cursando Análise e Desenvolvimento de Sistemas
+   <h3>💬 Sobre Mim:</h3>
+  Possuo experiência no desenvolvimento de soluções Front-End com JavaScript, adquirida durante meu estágio, onde também atuei no suporte técnico. Tenho vivência prática com Angular, React, Node.js e consumo de APIs, aplicando boas práticas para construir aplicações performáticas e escaláveis.
+  Atualmente, estou aprofundando meus conhecimentos em Back-End para me tornar um desenvolvedor Fullstack mais completo. Com organização, flexibilidade e espírito colaborativo, estou sempre em busca de transformar desafios em soluções eficientes.
+</p>
+
+###
+
+<h3>📫 Como Entrar em Contato</h3>
+
+- 📧 Email: rodrigues.vini.2004@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/vinicius-rodrigues2004](https://www.linkedin.com/in/vinicius-rodrigues2004/)
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Rodriguess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Rodriguess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Rodriguess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Rodriguess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
