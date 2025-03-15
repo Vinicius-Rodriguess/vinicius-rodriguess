@@ -1,6 +1,14 @@
+<h1 align="left">👋 Olá! Eu sou o Vinicius</h1>
+
+###
+
+<p align="left">🎓 Desenvolvedor Fullstack JavaScript | 📚 Cursando Análise e desenvolvimento de sistemas<br><br>💬 Sobre Mim:<br><br>Possuo experiência no desenvolvimento de soluções Front-End com JavaScript, adquirida durante meu estágio, onde também atuei no suporte técnico. Tenho vivência prática com Angular, React, Node.js e consumo de APIs, aplicando boas práticas para construir aplicações performáticas e escaláveis.<br><br>Atualmente, estou aprofundando meus conhecimentos em Back-End para me tornar um desenvolvedor Fullstack mais completo. Com organização, flexibilidade e espírito colaborativo, estou sempre em busca de transformar desafios em soluções eficientes.<br><br>📫 Como Entrar em Contato<br>📧 Email: rodrigues.vini.2004@gmail.com<br>🔗 LinkedIn: [Vinicius Rodrigues](https://www.linkedin.com/in/vinicius-rodrigues2004/)</p>
+
+###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-rodriguess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-rodriguess&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinicius-Rodriguess&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinicius-Rodriguess&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -14,15 +22,19 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="nestjs logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 ###
