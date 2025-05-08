@@ -5,8 +5,7 @@
 <p align="left">
   🎓 Desenvolvedor Fullstack JavaScript | 📚 Cursando Análise e Desenvolvimento de Sistemas
    <h3>💬 Sobre Mim:</h3>
-  Possuo experiência no desenvolvimento de soluções Front-End com JavaScript, adquirida durante meu estágio, onde também atuei no suporte técnico. Tenho vivência prática com Angular, React, Node.js e consumo de APIs, aplicando boas práticas para construir aplicações performáticas e escaláveis.
-  Atualmente, estou aprofundando meus conhecimentos em Back-End para me tornar um desenvolvedor Fullstack mais completo. Com organização, flexibilidade e espírito colaborativo, estou sempre em busca de transformar desafios em soluções eficientes.
+ Desenvolvedor Full Stack com experiência tanto no desenvolvimento de interfaces web quanto na construção de APIs. Tenho experiência em tecnologias como HTML, CSS, JavaScript, React, Angular, NestJS, Node.js, Java, Spring Boot e .NET. Possuo conhecimento em integração com APIs, bancos de dados relacionais e não relacionais, boas práticas de desenvolvimento e otimização de performance. Atuei como estagiário de TI, desenvolvendo e mantendo interfaces web e prestando suporte técnico aos usuários. Com uma base sólida em Front-End e Back End, consigo atuar de forma completa no desenvolvimento de sistemas.
 </p>
 
 ###
@@ -24,6 +23,8 @@
 </div>
 
 ###
+
+<h3>💻 Tecnologias</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
