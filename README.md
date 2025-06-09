@@ -5,7 +5,7 @@
 <p align="left">
   🎓 Desenvolvedor Fullstack JavaScript | 📚 Cursando Análise e Desenvolvimento de Sistemas
    <h3>💬 Sobre Mim:</h3>
- Desenvolvedor Full Stack com experiência tanto no desenvolvimento de interfaces web quanto na construção de APIs. Tenho experiência em tecnologias como HTML, CSS, JavaScript, React, Angular, NestJS, Node.js, Java, Spring Boot e .NET. Possuo conhecimento em integração com APIs, bancos de dados relacionais e não relacionais, boas práticas de desenvolvimento e otimização de performance. Atuei como estagiário de TI, desenvolvendo e mantendo interfaces web e prestando suporte técnico aos usuários. Com uma base sólida em Front-End e Back End, consigo atuar de forma completa no desenvolvimento de sistemas.
+ Desenvolvedor Full Stack com experiência tanto no desenvolvimento de interfaces web quanto na construção de APIs. Tenho experiência em tecnologias como JavaScript, React, Next, NestJS, Node, Java, Spring Boot. Possuo conhecimento em integração com APIs, bancos de dados relacionais e não relacionais e boas práticas de desenvolvimento.
 </p>
 
 ###
@@ -37,13 +37,11 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
