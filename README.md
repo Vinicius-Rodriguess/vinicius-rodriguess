@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  🎓 Desenvolvedor Fullstack JavaScript | 📚 Cursando Análise e Desenvolvimento de Sistemas
+  🎓 Desenvolvedor Fullstack | 📚 Formado Análise e Desenvolvimento de Sistemas
    <h3>💬 Sobre Mim:</h3>
  Desenvolvedor Full Stack com experiência tanto no desenvolvimento de interfaces web quanto na construção de APIs. Tenho experiência em tecnologias como JavaScript, React, Next, NestJS, Node, Java, Spring Boot. Possuo conhecimento em integração com APIs, bancos de dados relacionais e não relacionais e boas práticas de desenvolvimento.
 </p>
@@ -27,9 +27,9 @@
 <h3>💻 Tecnologias</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -39,15 +39,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=next" height="40" alt="next logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
 </div>
 
 ###
