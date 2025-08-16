@@ -5,7 +5,11 @@
 <p align="left">
   🎓 Desenvolvedor Fullstack | 📚 Formado Análise e Desenvolvimento de Sistemas
    <h3>💬 Sobre Mim:</h3>
- Desenvolvedor Full Stack com experiência tanto no desenvolvimento de interfaces web quanto na construção de APIs. Tenho experiência em tecnologias como JavaScript, React, Next, NestJS, Node, Java, Spring Boot. Possuo conhecimento em integração com APIs, bancos de dados relacionais e não relacionais e boas práticas de desenvolvimento.
+ Desenvolvedor Front-End com experiência no desenvolvimento e manutenção de aplicações web e APIs, utilizando React, Next.js, TypeScript, JavaScript, Node.js, HTML e CSS. Atuo na integração de sistemas, criação de novos produtos e funcionalidades, e otimização de performance com base em boas práticas de desenvolvimento, garantindo qualidade, escalabilidade e excelente experiência do usuário.
+
+Tenho experiência em gerenciamento de tarefas em sprints ágeis (Scrum/Kanban) e documentação técnica, contribuindo para o fluxo de desenvolvimento eficiente e organizado.
+
+Formado em Análise e Desenvolvimento de Sistemas, sigo me aperfeiçoando continuamente para entregar soluções web completas e eficientes.
 </p>
 
 ###
