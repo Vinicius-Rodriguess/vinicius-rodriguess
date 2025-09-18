@@ -4,7 +4,7 @@
 
 <p align="left">
   Desenvolvedor de Software | Formado Análise e Desenvolvimento de Sistemas
-   <h3>💬 Sobre Mim:</h3>
+   <h3>Sobre Mim:</h3>
  Desenvolvedor Front-End com experiência no desenvolvimento e manutenção de aplicações web e APIs, utilizando React, Next.js, TypeScript, JavaScript, Node.js, HTML e CSS. Atuo na integração de sistemas, criação de novos produtos e funcionalidades, e otimização de performance com base em boas práticas de desenvolvimento, garantindo qualidade, escalabilidade e excelente experiência do usuário. <br><br>
 Tenho experiência em gerenciamento de tarefas em sprints ágeis (Scrum/Kanban) e documentação técnica, contribuindo para o fluxo de desenvolvimento eficiente e organizado.<br><br>
 Formado em Análise e Desenvolvimento de Sistemas, sigo me aperfeiçoando continuamente para entregar soluções web completas e eficientes.
@@ -46,6 +46,8 @@ Formado em Análise e Desenvolvimento de Sistemas, sigo me aperfeiçoando contin
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
 </div>
 
 ###
