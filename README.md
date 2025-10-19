@@ -5,9 +5,13 @@
 <p align="left">
   Desenvolvedor de Software | Formado Análise e Desenvolvimento de Sistemas
    <h3>Sobre Mim:</h3>
- Desenvolvedor Front-End com experiência no desenvolvimento e manutenção de aplicações web e APIs, utilizando React, Next.js, TypeScript, JavaScript, Node.js, HTML e CSS. Atuo na integração de sistemas, criação de novos produtos e funcionalidades, e otimização de performance com base em boas práticas de desenvolvimento, garantindo qualidade, escalabilidade e excelente experiência do usuário. <br><br>
-Tenho experiência em gerenciamento de tarefas em sprints ágeis (Scrum/Kanban) e documentação técnica, contribuindo para o fluxo de desenvolvimento eficiente e organizado.<br><br>
-Formado em Análise e Desenvolvimento de Sistemas, sigo me aperfeiçoando continuamente para entregar soluções web completas e eficientes.
+Desenvolvedor Full Stack com experiência no desenvolvimento e manutenção de aplicações web e APIs, utilizando React, Next.js, TypeScript, Node.js e Python (Flask). Atuo na criação de automações, integrações e serviços internos, além da otimização de performance e melhoria contínua da experiência do usuário com base em métricas e boas práticas de desenvolvimento.<br><br>
+
+Tenho experiência com infraestrutura e deploy em AWS (EC2, CloudWatch, CloudFront, DynamoDB), uso de Docker e Docker Compose para padronização de ambientes, e pipelines CI/CD no Bitbucket para automação de deploy e integração contínua.<br><br>
+
+Participo ativamente do ciclo ágil (Scrum/Kanban), contribuindo no gerenciamento e priorização de tarefas e na documentação técnica para garantir um fluxo de desenvolvimento organizado e escalável.<br><br>
+
+Sou formado em Análise e Desenvolvimento de Sistemas e atualmente curso o MBA em Engenharia de Software pela USP, além de estar aprofundando meus estudos em Java e Spring Boot para expandir minha atuação no backend e fortalecer minha base como desenvolvedor full stack.<br><br>
 </p>
 
 ###
